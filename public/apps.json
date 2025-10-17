@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/0yTVDknN/compressed-4c3487e63d5e4a421af2d87f3dc68b53.webp",
+    "title": "Focus Flow",
+    "companyName": "Zenify Labs",
+    "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest. A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you’ve worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere. For people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you’re studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day.",
+    "size": 48,
+    "reviews": "10.5K",
+    "ratingAvg": 4.6,
+    "downloads": "500K",
+    "ratings": [
+      { "name": "1 star", "count": 123 },
+      { "name": "2 star", "count": 245 },
+      { "name": "3 star", "count": 1021 },
+      { "name": "4 star", "count": 4321 },
+      { "name": "5 star", "count": 6833 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/6cbzFzGN/original-dc365a7be13c4fbea057526f56373e04.webp",
+    "title": "Meal Master",
+    "companyName": "NutriTech",
+    "description": "Meal Master is designed for healthy eating and easy meal planning. The app provides personalized recipes, grocery lists, and AI-powered meal recommendations based on your dietary preferences and goals. You can log your daily calories, track macro nutrients, and receive feedback on your eating habits. Meal Master includes step-by-step cooking instructions, making complex dishes simple for beginners. You can save favorite recipes and share meal plans with family or friends. The app also tracks water intake, snack habits, and suggests portion adjustments. Weekly and monthly progress charts help you visualize improvements. It supports vegan, keto, and gluten-free diets with custom filters. Notifications remind you to eat, hydrate, and cook on time. Integration with fitness apps ensures your nutrition aligns with your workouts. Meal Master even suggests grocery substitutions to save money while staying healthy. You can also explore global cuisines with curated recipe collections. By combining tracking, planning, and guidance, Meal Master becomes your ultimate nutrition companion.",
+    "size": 56,
+    "reviews": "8.7K",
+    "ratingAvg": 4.4,
+    "downloads": "400K",
+    "ratings": [
+      { "name": "1 star", "count": 143 },
+      { "name": "2 star", "count": 332 },
+      { "name": "3 star", "count": 932 },
+      { "name": "4 star", "count": 3654 },
+      { "name": "5 star", "count": 5682 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/bRrKSfhx/FitTrack.jpg",
+    "title": "FitTrack Pro",
+    "companyName": "ActiveMind Studio",
+    "description": "FitTrack Pro monitors your fitness and health metrics in real-time. You can track workouts, heart rate, sleep patterns, and calories burned. The app allows you to set personalized goals and provides daily insights for motivation. FitTrack Pro supports multiple fitness levels, from beginner to advanced athletes. Detailed analytics show your strengths and areas to improve. Integration with wearable devices ensures data accuracy and seamless tracking. Users can participate in community challenges or set personal milestones. The nutrition tracker aligns with your activity levels for better results. The app offers guided workout videos and tutorials. You can schedule sessions, track streaks, and see progress charts. Custom reminders help maintain consistency in exercise and hydration. FitTrack Pro’s minimal interface reduces distraction and encourages focus. Motivational badges celebrate achievements. Social sharing features let you connect with friends for accountability. Overall, FitTrack Pro combines fitness, nutrition, and analytics for a complete wellness experience.",
+    "size": 62,
+    "reviews": "13.2K",
+    "ratingAvg": 4.7,
+    "downloads": "800K",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 401 },
+      { "name": "3 star", "count": 1221 },
+      { "name": "4 star", "count": 5421 },
+      { "name": "5 star", "count": 8988 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/VWsyvRXq/mdfz4kreechvwtittluq.jp",
+    "title": "Readify",
+    "companyName": "WordSmith Co.",
+    "description": "Readify brings thousands of eBooks, audiobooks, and articles into one convenient platform. The app learns your reading patterns and recommends content tailored to your mood and interests. You can track your reading progress, set goals, and earn badges for consistency. Readify supports offline downloads and bookmarks for seamless reading. Users can highlight text, add notes, and share favorite passages with friends. Curated collections cover genres from fiction to non-fiction. Personalized daily reading suggestions help expand knowledge gradually. The app includes a night mode and customizable fonts for comfort. Audiobook integration allows hands-free learning. Readify tracks your reading streaks and suggests new authors to explore. Social features let you join book clubs and discussions. Notifications encourage daily reading habits. Overall, Readify transforms casual reading into an engaging and structured experience. It’s perfect for learners, book lovers, and lifelong readers.",
+    "size": 70,
+    "reviews": "7.4K",
+    "ratingAvg": 4.3,
+    "downloads": "350K",
+    "ratings": [
+      { "name": "1 star", "count": 321 },
+      { "name": "2 star", "count": 502 },
+      { "name": "3 star", "count": 1123 },
+      { "name": "4 star", "count": 2980 },
+      { "name": "5 star", "count": 3506 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/xyz5/app5.png",
+    "title": "BudgetEase",
+    "companyName": "FinSync",
+    "description": "BudgetEase helps you manage your personal finances with ease. Set monthly budgets, track expenses, and receive alerts for overspending. The app categorizes transactions automatically and provides visual charts for better understanding. You can plan savings, set goals, and analyze trends over time. Notifications help you stay on track with bills and due payments. The app also provides tips for improving financial health and reducing unnecessary expenses. Users can export financial reports for accounting or tax purposes. BudgetEase syncs across devices for seamless monitoring. Customizable dashboards let you focus on metrics that matter. Investment tracking provides insights for smarter financial decisions. Collaboration allows sharing budget plans with family or partners. Security features ensure privacy of sensitive data. Overall, BudgetEase empowers users to take control of money and plan a stable financial future.",
+    "size": 43,
+    "reviews": "6.5K",
+    "ratingAvg": 4.5,
+    "downloads": "420K",
+    "ratings": [
+      { "name": "1 star", "count": 98 },
+      { "name": "2 star", "count": 274 },
+      { "name": "3 star", "count": 712 },
+      { "name": "4 star", "count": 3411 },
+      { "name": "5 star", "count": 4047 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/wh3yrdqZ/compressed-43ab0dbc583a349ceef9f79412acfd27.webp",
+    "title": "NoteCraft",
+    "companyName": "IdeaLabs",
+    "description": "NoteCraft is a versatile note-taking and project management app that helps organize ideas efficiently. With voice-to-text, image embedding, and checklist support, you can capture thoughts in multiple ways. Notes sync automatically across devices for easy access. The app allows tagging, folders, and pinning for quick retrieval. You can share notes and collaborate with team members in real-time. Smart search makes finding content simple and fast. The app supports offline usage, so you can work anywhere. Templates help speed up repetitive tasks. Notifications remind you of important deadlines or notes. Rich text formatting provides a professional appearance. NoteCraft integrates with calendars for task scheduling. Analytics show how often notes are accessed and modified. Security measures protect sensitive information. Overall, NoteCraft enhances productivity and streamlines workflow for students and professionals.",
+    "size": 38,
+    "reviews": "8.9K",
+    "ratingAvg": 4.6,
+    "downloads": "610K",
+    "ratings": [
+      { "name": "1 star", "count": 232 },
+      { "name": "2 star", "count": 456 },
+      { "name": "3 star", "count": 1023 },
+      { "name": "4 star", "count": 3455 },
+      { "name": "5 star", "count": 5757 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/GfJ5SQXy/m14ay99p4g93q5p1apbw-400x400.jpg",
+    "title": "TaskHero",
+    "companyName": "FlowSync",
+    "description": "TaskHero gamifies your to-do list and productivity goals. Assign tasks, track progress visually, and earn rewards as you complete activities. The app motivates users to stay consistent with work, study, or personal projects. You can set recurring tasks and deadlines with reminders. TaskHero provides insights into productivity trends over time. Integration with calendars and note apps helps streamline workflow. Users can participate in challenges and compare achievements with friends. Analytics show completion rates, time spent, and peak productivity hours. Daily summaries help reflect and adjust strategies. The app supports team collaboration with shared tasks. Notifications guide focus and prevent procrastination. TaskHero includes motivational streaks and badges for accomplishments. Customizable themes make the interface enjoyable. Overall, TaskHero encourages effective task management and makes productivity fun.",
+    "size": 44,
+    "reviews": "10.3K",
+    "ratingAvg": 4.7,
+    "downloads": "710K",
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 312 },
+      { "name": "3 star", "count": 1212 },
+      { "name": "4 star", "count": 4211 },
+      { "name": "5 star", "count": 7396 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/9j9phfb/6fxz-KAit-400x400.jpg",
+    "title": "MindSpace",
+    "companyName": "CalmWorks",
+    "description": "MindSpace offers guided meditation, sleep sounds, and breathing exercises for stress relief. The app personalizes mindfulness sessions and tracks your mental well-being over time. It helps users focus, relax, and improve sleep quality. MindSpace provides daily meditation reminders and progress tracking. Background sounds, nature noises, and calming music create a distraction-free environment. You can track streaks, set goals, and receive motivational insights. Guided courses cover topics like anxiety reduction and focus improvement. Analytics show trends in sleep, mood, and meditation duration. The app integrates with wearable devices to monitor physiological metrics. Users can join challenges and group sessions for accountability. Notifications help maintain consistency. MindSpace includes tips for healthy lifestyle habits. Overall, it’s a comprehensive mental wellness companion suitable for beginners and experienced practitioners alike.",
+    "size": 53,
+    "reviews": "9.8K",
+    "ratingAvg": 4.8,
+    "downloads": "850K",
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 309 },
+      { "name": "3 star", "count": 982 },
+      { "name": "4 star", "count": 3654 },
+      { "name": "5 star", "count": 7608 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/FbRwD5KM/download-2.webp",
+    "title": "Learnify",
+    "companyName": "EduTech Labs",
+    "description": "Learnify provides interactive courses in coding, design, and marketing. It adapts to your learning pace and provides personalized recommendations. Track progress, complete quizzes, and earn certificates for achievements. Learnify includes video lessons, practice exercises, and real-world projects. You can set learning goals and daily study schedules. The app monitors performance metrics and suggests areas to focus on. Discussion forums allow peer interaction and collaborative learning. Offline access enables studying without internet. Integration with productivity apps helps manage assignments and deadlines. Gamified rewards and streaks motivate consistent learning. The app provides insights into strengths and weaknesses. Personalized notifications guide study plans. Overall, Learnify transforms online learning into an engaging, structured, and interactive experience.",
+    "size": 80,
+    "reviews": "14.2K",
+    "ratingAvg": 4.6,
+    "downloads": "950K",
+    "ratings": [
+      { "name": "1 star", "count": 342 },
+      { "name": "2 star", "count": 523 },
+      { "name": "3 star", "count": 1423 },
+      { "name": "4 star", "count": 5212 },
+      { "name": "5 star", "count": 8731 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/Cs6YKXCn/Logo-Local-500-x-500-px.png",
+    "title": "HealthMate",
+    "companyName": "WellnessTech",
+    "description": "HealthMate tracks vital health metrics, including heart rate, steps, sleep, and blood pressure. Personalized insights help you make healthier lifestyle choices. The app integrates with wearable devices for real-time monitoring. Users can set fitness and wellness goals, track progress, and receive motivational feedback. HealthMate provides daily tips for nutrition, hydration, and exercise. Analytics show trends and suggest adjustments. Notifications ensure consistency and adherence to routines. You can log medical records and medications for reference. The app includes reminders for doctor appointments and health checkups. Social features allow sharing achievements with friends and family. Guided meditation and stress management exercises are included. HealthMate supports multiple profiles for family use. Overall, it’s a complete health tracking and wellness management tool for individuals of all ages.",
+    "size": 65,
+    "reviews": "12.1K",
+    "ratingAvg": 4.5,
+    "downloads": "720K",
+    "ratings": [
+      { "name": "1 star", "count": 198 },
+      { "name": "2 star", "count": 321 },
+      { "name": "3 star", "count": 1021 },
+      { "name": "4 star", "count": 4021 },
+      { "name": "5 star", "count": 6379 }
+    ]
+  },
+
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/6RkgNGWR/image-asset.webp",
+    "title": "PhotoFlex",
+    "companyName": "PixelPro",
+    "description": "PhotoFlex is a professional-grade photo editing app that brings powerful tools to your mobile device. Users can apply filters, adjust lighting, crop, and enhance images with precision. AI-based background removal simplifies complex edits. Batch editing lets you process multiple images at once. The app includes layer support, masking, and advanced color correction. Tutorials and tips help beginners learn quickly. PhotoFlex allows direct sharing to social media platforms. You can create collages, add text overlays, and customize frames. The interface is intuitive and optimized for touch gestures. Cloud sync ensures your projects are safe and accessible on multiple devices. Undo/redo features give flexibility in editing. Users can save custom presets for repeated use. Notifications provide tips and new feature updates. Overall, PhotoFlex transforms mobile photography into a professional experience, empowering creativity and efficiency.",
+    "size": 89,
+    "reviews": "13.4K",
+    "ratingAvg": 4.7,
+    "downloads": "980K",
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 321 },
+      { "name": "3 star", "count": 1211 },
+      { "name": "4 star", "count": 4562 },
+      { "name": "5 star", "count": 9137 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/yFctvBQd/vibe-play-logo-designs-concept-music-vibe-logo-template-vector.jpg",
+    "title": "MusicVibe",
+    "companyName": "Soundify",
+    "description": "MusicVibe personalizes your music experience by adapting playlists to your mood and activity. AI recommendations learn your taste over time. You can create custom playlists, follow artists, and discover new tracks daily. Offline mode allows uninterrupted listening. Lyrics display, sleep timer, and equalizer settings enhance enjoyment. The app tracks listening habits and suggests similar songs. Social sharing lets you connect with friends, share playlists, and see what others are listening to. MusicVibe supports multiple genres and curated collections. Notifications alert you about new releases and trending tracks. Smart search helps find songs quickly. Integration with wearable devices enables music control on the go. Personalized daily mixes make listening engaging. Motivational music themes support workouts and productivity. Overall, MusicVibe ensures a rich, adaptive, and social music experience.",
+    "size": 92,
+    "reviews": "14.5K",
+    "ratingAvg": 4.8,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 278 },
+      { "name": "2 star", "count": 421 },
+      { "name": "3 star", "count": 998 },
+      { "name": "4 star", "count": 4562 },
+      { "name": "5 star", "count": 10274 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/Kcp1R2cL/attachment-132249620.png",
+    "title": "ShopSmart",
+    "companyName": "eComPro",
+    "description": "ShopSmart helps users find the best deals and save money when shopping online. The app compares prices across multiple stores and tracks discounts. Personalized alerts notify you when favorite items go on sale. Users can save items to wishlists and receive deal recommendations. ShopSmart supports barcode scanning for quick price checks. Analytics show spending trends and suggest smarter purchases. The app provides secure checkout and payment options. Coupons and promo codes are automatically applied. Users can rate products and view reviews from other shoppers. Notifications remind users about flash sales and limited offers. Integration with loyalty programs increases savings. ShopSmart’s interface is simple, fast, and intuitive. Users can explore curated collections for holidays and events. Overall, ShopSmart makes online shopping efficient, cost-effective, and convenient.",
+    "size": 65,
+    "reviews": "8.3K",
+    "ratingAvg": 4.4,
+    "downloads": "590K",
+    "ratings": [
+      { "name": "1 star", "count": 188 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 1032 },
+      { "name": "4 star", "count": 3564 },
+      { "name": "5 star", "count": 5238 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/DPQmrVQb/CLy-Yu7mwvv-QCEAE.webp",
+    "title": "Langify",
+    "companyName": "LingoVerse",
+    "description": "Langify offers interactive language learning through fun and engaging exercises. Users can practice listening, speaking, reading, and writing skills. Speech recognition helps perfect pronunciation. Daily challenges encourage consistent learning. The app supports multiple languages and levels, from beginner to advanced. Vocabulary and grammar lessons are personalized based on progress. Gamified rewards motivate learners to maintain streaks. Langify includes cultural tips and idioms to enrich understanding. Users can track progress with analytics and milestone badges. Offline mode allows learning anywhere. Integration with flashcards reinforces memory retention. Notifications remind users to practice daily. Social features let learners connect and practice with peers. Overall, Langify transforms language learning into a structured, engaging, and effective experience for everyone.",
+    "size": 78,
+    "reviews": "9.5K",
+    "ratingAvg": 4.6,
+    "downloads": "630K",
+    "ratings": [
+      { "name": "1 star", "count": 223 },
+      { "name": "2 star", "count": 389 },
+      { "name": "3 star", "count": 1121 },
+      { "name": "4 star", "count": 4102 },
+      { "name": "5 star", "count": 6706 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/pv3dJp2d/unnamed.png",
+    "title": "WeatherWise",
+    "companyName": "SkyData",
+    "description": "WeatherWise provides hyperlocal weather forecasts with real-time updates. Users can view hourly, daily, and weekly predictions with interactive maps. The app includes radar, satellite imagery, and severe weather alerts. Custom notifications notify about storms, rain, and temperature changes. WeatherWise provides tips for outdoor activities and travel planning. Users can set favorite locations and track conditions globally. The app includes pollen count, UV index, and air quality metrics. Weather graphs and charts help visualize patterns. Integration with widgets allows home screen tracking. Historical weather data provides insights into trends. The interface is simple and visually appealing. Users can share weather updates with friends. Overall, WeatherWise ensures accurate, timely, and actionable weather information for everyday life.",
+    "size": 51,
+    "reviews": "7.3K",
+    "ratingAvg": 4.5,
+    "downloads": "480K",
+    "ratings": [
+      { "name": "1 star", "count": 201 },
+      { "name": "2 star", "count": 314 },
+      { "name": "3 star", "count": 902 },
+      { "name": "4 star", "count": 3221 },
+      { "name": "5 star", "count": 4682 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co.com/fwkMRxB/images.jpg",
+    "title": "HealthSync",
+    "companyName": "CareTech",
+    "description": "HealthSync connects multiple health devices and centralizes your data for easy monitoring. Track sleep, workouts, heart rate, and nutrition in one app. Personalized insights help improve lifestyle choices. Users can set wellness goals and track progress with charts and analytics. HealthSync integrates with medical records and provides secure data sharing with doctors. Notifications remind users to exercise, hydrate, and sleep well. The app includes guided workouts, meditation, and stress management. Social features allow sharing achievements and challenges. HealthSync supports multiple profiles for family tracking. Historical data analysis shows trends and improvement areas. Integration with wearable devices ensures accurate monitoring. Custom reminders help maintain healthy habits. Overall, HealthSync is a comprehensive solution for wellness and health management.",
+    "size": 84,
+    "reviews": "11.3K",
+    "ratingAvg": 4.7,
+    "downloads": "900K",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 367 },
+      { "name": "3 star", "count": 1055 },
+      { "name": "4 star", "count": 4109 },
+      { "name": "5 star", "count": 7543 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co.com/RkrYtJ8K/safe-drive-logo-icon-driving-school-symbol-vector.jpg",
+    "title": "DriveSafe",
+    "companyName": "AutoSense",
+    "description": "DriveSafe monitors driving habits and provides real-time feedback to improve road safety. The app tracks speed, braking, acceleration, and cornering. Personalized insights help reduce risks and fuel consumption. Gamified rewards encourage safe driving behavior. DriveSafe detects distractions and alerts the driver promptly. The app supports journey history, mileage tracking, and vehicle diagnostics. Users can set goals for safer driving and monitor improvement over time. Integration with insurance programs offers potential discounts. Notifications remind drivers about vehicle maintenance and safety checks. Social features allow sharing achievements with friends. Data analytics provide trends and actionable tips. The interface is simple, visually clear, and user-friendly. Overall, DriveSafe promotes responsible driving and reduces accidents.",
+    "size": 76,
+    "reviews": "6.8K",
+    "ratingAvg": 4.4,
+    "downloads": "530K",
+    "ratings": [
+      { "name": "1 star", "count": 167 },
+      { "name": "2 star", "count": 284 },
+      { "name": "3 star", "count": 1021 },
+      { "name": "4 star", "count": 3220 },
+      { "name": "5 star", "count": 4151 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co.com/8D5x9R3c/hqj2wzhmwnntxiqlzkuj.jpg",
+    "title": "CryptoMate",
+    "companyName": "BlockVerse",
+    "description": "CryptoMate tracks your cryptocurrency portfolio in real-time with live price updates and analytics. Users can monitor investments across multiple coins and exchanges. Alerts notify price changes and market trends. The app provides charts, historical data, and performance metrics. Portfolio diversification suggestions help manage risk. Users can track gains, losses, and ROI. Secure wallets can be integrated for direct transactions. News feed and market insights keep users informed. CryptoMate supports goal setting for investments and savings. Educational tips and tutorials help beginners learn trading basics. Custom notifications alert about significant market movements. Multi-device sync ensures consistent access. Overall, CryptoMate provides a comprehensive, secure, and educational crypto tracking experience.",
+    "size": 93,
+    "reviews": "10.4K",
+    "ratingAvg": 4.6,
+    "downloads": "880K",
+    "ratings": [
+      { "name": "1 star", "count": 312 },
+      { "name": "2 star", "count": 455 },
+      { "name": "3 star", "count": 1109 },
+      { "name": "4 star", "count": 4521 },
+      { "name": "5 star", "count": 7054 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co.com/5WfW4yBQ/images-1.png",
+    "title": "CookBookly",
+    "companyName": "TasteLab",
+    "description": "CookBookly helps users discover and save recipes from around the world. The app provides step-by-step instructions, ingredient tracking, and calorie analysis. Voice-guided cooking makes hands-free preparation easy. Users can create shopping lists and manage pantry inventory. CookBookly offers personalized meal plans based on dietary preferences and goals. Nutritional information helps maintain a healthy diet. Users can share recipes, rate dishes, and follow chefs. Integration with smart kitchen devices enhances convenience. Seasonal and trending recipe suggestions keep the menu fresh. Notifications remind users of cooking schedules and timers. The interface is intuitive and visually appealing. Social features allow community engagement and recipe sharing. Overall, CookBookly is a complete tool for culinary exploration, healthy eating, and efficient cooking.",
+    "size": 71,
+    "reviews": "8.4K",
+    "ratingAvg": 4.5,
+    "downloads": "520K",
+    "ratings": [
+      { "name": "1 star", "count": 209 },
+      { "name": "2 star", "count": 311 },
+      { "name": "3 star", "count": 902 },
+      { "name": "4 star", "count": 3502 },
+      { "name": "5 star", "count": 5508 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co.com/JWP1QzLg/unnamed-1.png",
+    "title": "EcoTrack",
+    "companyName": "GreenMind",
+    "description": "EcoTrack helps users monitor and reduce their carbon footprint. The app tracks daily activities like energy usage, travel, and consumption patterns. Users receive personalized suggestions for sustainable living. Challenges and goals motivate eco-friendly habits. Analytics show environmental impact over time and suggest improvements. EcoTrack integrates with smart devices to track energy consumption. Tips include reducing waste, conserving water, and greener transportation. Social sharing allows users to inspire others and join community initiatives. Notifications remind users about eco-tasks and milestones. Educational content helps understand climate change and sustainability. Users can log and track recycling efforts. Progress charts visualize achievements and trends. Overall, EcoTrack empowers individuals to make informed, sustainable choices for a greener future.",
+    "size": 59,
+    "reviews": "9.3K",
+    "ratingAvg": 4.7,
+    "downloads": "690K",
+    "ratings": [
+      { "name": "1 star", "count": 188 },
+      { "name": "2 star", "count": 278 },
+      { "name": "3 star", "count": 998 },
+      { "name": "4 star", "count": 4011 },
+      { "name": "5 star", "count": 5846 }
+    ]
+  }
+]
